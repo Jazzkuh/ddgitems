@@ -3128,6 +3128,123 @@
       "type": "ITEM",
       "name": "Engelen vleugels"
     },
+	{
+            "material":"SHEARS",
+            "type":"ITEM",
+            "name":"Darthvaderhead",
+            "nbt":{
+                "base":"mtcustom",
+                "value":"darthvaderhead"
+            }
+        },
+        {
+            "material":"DIAMOND_HOE",
+            "type":"ITEM",
+            "name":"Legopoppetje",
+            "nbt":{
+                "base":"mtcustom",
+                "value":"legopoppetje"
+            }
+        },
+        {
+            "material":"DIAMOND_HOE",
+            "type":"ITEM",
+            "name":"Lightsaber blue",
+            "nbt":{
+                "base":"mtcustom",
+                "value":"lightsaber_blue"
+            }
+        },
+        {
+            "material":"DIAMOND_HOE",
+            "type":"ITEM",
+            "name":"Lightsaber green",
+            "nbt":{
+                "base":"mtcustom",
+                "value":"lightsaber_green"
+            }
+        },
+        {
+            "material":"DIAMOND_HOE",
+            "type":"ITEM",
+            "name":"Lightsaber purple",
+            "nbt":{
+                "base":"mtcustom",
+                "value":"lightsaber_purple"
+            }
+        },
+        {
+            "material":"DIAMOND_HOE",
+            "type":"ITEM",
+            "name":"Lightsaber red",
+            "nbt":{
+                "base":"mtcustom",
+                "value":"lightsaber_red"
+            }
+        },
+        {
+            "material":"DIAMOND_HOE",
+            "type":"ITEM",
+            "name":"Lightsaber yellow",
+            "nbt":{
+                "base":"mtcustom",
+                "value":"lightsaber_yellow"
+            }
+        },
+        {
+            "material":"DIAMOND_HOE",
+            "type":"ITEM",
+            "name":"Magicwand",
+            "nbt":{
+                "base":"mtcustom",
+                "value":"magicwand"
+            }
+        },
+        {
+            "material":"DIAMOND_HOE",
+            "type":"ITEM",
+            "name":"Magicwand blue",
+            "nbt":{
+                "base":"mtcustom",
+                "value":"magicwand_blue"
+            }
+        },
+        {
+            "material":"DIAMOND_HOE",
+            "type":"ITEM",
+            "name":"Magicwand green",
+            "nbt":{
+                "base":"mtcustom",
+                "value":"magicwand_green"
+            }
+        },
+        {
+            "material":"DIAMOND_HOE",
+            "type":"ITEM",
+            "name":"Magicwand red",
+            "nbt":{
+                "base":"mtcustom",
+                "value":"magicwand_red"
+            }
+        },
+        {
+            "material":"DIAMOND_HOE",
+            "type":"ITEM",
+            "name":"Magicwand yellow",
+            "nbt":{
+                "base":"mtcustom",
+                "value":"magicwand_yellow"
+            }
+        },
+        {
+            "material":"SHEARS",
+            "type":"ITEM",
+            "name":"Sortinghat",
+            "nbt":{
+                "base":"mtcustom",
+                "value":"sortinghat"
+            }
+        },
     {
       "material": "CHAINMAIL_CHESTPLATE",
       "type": "REGULAR_ARMOR_SET",
@@ -7686,6 +7803,614 @@
         "base": "mtcustom",
         "value": "mondkapje"
       }
-    }
+    },
+	{
+            "material":"CHAINMAIL_CHESTPLATE",
+            "type":"CUSTOM_ARMOR_SET",
+            "name":"Ac milan outfit",
+            "nbt":{
+                "base":"mtcustom",
+                "value":"ac_milan_outfit"
+            },
+			"customitems": [
+				{
+				  "material": "CHAINMAIL_LEGGINGS",
+				  "name": "Ac milan outfit",
+				   "nbt": {
+						"base": "mtcustom",
+						"value": "ac_milan_outfit"
+				  }
+				},
+				{
+				  "material": "CHAINMAIL_BOOTS",
+				  "name": "Ac milan outfit",
+				  "nbt": {
+						"base": "mtcustom",
+						"value": "ac_milan_outfit"
+				  }
+				}
+			  ]
+        },
+        {
+            "material":"CHAINMAIL_CHESTPLATE",
+            "type":"CUSTOM_ARMOR_SET",
+            "name":"Arsenal outfit",
+            "nbt":{
+                "base":"mtcustom",
+                "value":"arsenal_outfit"
+            },
+			"customitems": [
+				{
+				  "material": "CHAINMAIL_LEGGINGS",
+				  "name": "Arsenal outfit",
+				   "nbt": {
+						"base": "mtcustom",
+						"value": "arsenal_outfit"
+				  }
+				},
+				{
+				  "material": "CHAINMAIL_BOOTS",
+				  "name": "Arsenal outfit",
+				  "nbt": {
+						"base": "mtcustom",
+						"value": "arsenal_outfit"
+				  }
+				}
+			  ]
+        },
+        {
+            "material":"CHAINMAIL_CHESTPLATE",
+            "type":"CUSTOM_ARMOR_SET",
+            "name":"Bayern munchen outfit",
+            "nbt":{
+                "base":"mtcustom",
+                "value":"bayern_munchen_outfit"
+            },
+			"customitems": [
+				{
+				  "material": "CHAINMAIL_LEGGINGS",
+				  "name": "Bayern munchen outfit",
+				   "nbt": {
+						"base": "mtcustom",
+						"value": "bayern_munchen_outfit"
+				  }
+				},
+				{
+				  "material": "CHAINMAIL_BOOTS",
+				  "name": "Bayern munchen outfit",
+				  "nbt": {
+						"base": "mtcustom",
+						"value": "bayern_munchen_outfit"
+				  }
+				}
+			  ]
+        },
+        {
+            "material":"CHAINMAIL_CHESTPLATE",
+            "type":"CUSTOM_ARMOR_SET",
+            "name":"Borussia dortmund outfit",
+            "nbt":{
+                "base":"mtcustom",
+                "value":"borussia_dortmund_outfit"
+            },
+			"customitems": [
+				{
+				  "material": "CHAINMAIL_LEGGINGS",
+				  "name": "Borussia dortmund outfit",
+				   "nbt": {
+						"base": "mtcustom",
+						"value": "borussia_dortmund_outfit"
+				  }
+				},
+				{
+				  "material": "CHAINMAIL_BOOTS",
+				  "name": "Borussia dortmund outfit",
+				  "nbt": {
+						"base": "mtcustom",
+						"value": "borussia_dortmund_outfit"
+				  }
+				}
+			  ]
+        },
+		{
+            "material":"CHAINMAIL_CHESTPLATE",
+            "type":"CUSTOM_ARMOR_SET",
+            "name":"Chelsea outfit",
+            "nbt":{
+                "base":"mtcustom",
+                "value":"chelsea_outfit"
+            },
+			"customitems": [
+				{
+				  "material": "CHAINMAIL_LEGGINGS",
+				  "name": "Chelsea outfit",
+				   "nbt": {
+						"base": "mtcustom",
+						"value": "chelsea_outfit"
+				  }
+				},
+				{
+				  "material": "CHAINMAIL_BOOTS",
+				  "name": "Chelsea outfit",
+				  "nbt": {
+						"base": "mtcustom",
+						"value": "chelsea_outfit"
+				  }
+				}
+			  ]
+        },
+		{
+            "material":"CHAINMAIL_CHESTPLATE",
+            "type":"CUSTOM_ARMOR_SET",
+            "name":"Fc barcelona outfit",
+            "nbt":{
+                "base":"mtcustom",
+                "value":"fc_barcelona_outfit"
+            },
+			"customitems": [
+				{
+				  "material": "CHAINMAIL_LEGGINGS",
+				  "name": "Fc barcelona outfit",
+				   "nbt": {
+						"base": "mtcustom",
+						"value": "fc_barcelona_outfit"
+				  }
+				},
+				{
+				  "material": "CHAINMAIL_BOOTS",
+				  "name": "Fc barcelona outfit",
+				  "nbt": {
+						"base": "mtcustom",
+						"value": "fc_barcelona_outfit"
+				  }
+				}
+			  ]
+        },
+        {
+            "material":"CHAINMAIL_CHESTPLATE",
+            "type":"CUSTOM_ARMOR_SET",
+            "name":"Inter milan outfit",
+            "nbt":{
+                "base":"mtcustom",
+                "value":"inter_milan_outfit"
+            },
+			"customitems": [
+				{
+				  "material": "CHAINMAIL_LEGGINGS",
+				  "name": "Inter milan outfit",
+				   "nbt": {
+						"base": "mtcustom",
+						"value": "inter_milan_outfit"
+				  }
+				},
+				{
+				  "material": "CHAINMAIL_BOOTS",
+				  "name": "Inter milan outfit",
+				  "nbt": {
+						"base": "mtcustom",
+						"value": "inter_milan_outfit"
+				  }
+				}
+			  ]
+        },
+        {
+            "material":"CHAINMAIL_CHESTPLATE",
+            "type":"CUSTOM_ARMOR_SET",
+            "name":"Napoli outfit",
+            "nbt":{
+                "base":"mtcustom",
+                "value":"napoli_outfit"
+            },
+			"customitems": [
+				{
+				  "material": "CHAINMAIL_LEGGINGS",
+				  "name": "Napoli outfit",
+				   "nbt": {
+						"base": "mtcustom",
+						"value": "napoli_outfit"
+				  }
+				},
+				{
+				  "material": "CHAINMAIL_BOOTS",
+				  "name": "Napoli outfit",
+				  "nbt": {
+						"base": "mtcustom",
+						"value": "napoli_outfit"
+				  }
+				}
+			  ]
+        },
+        {
+            "material":"CHAINMAIL_CHESTPLATE",
+            "type":"CUSTOM_ARMOR_SET",
+            "name":"Real madrid outfit",
+            "nbt":{
+                "base":"mtcustom",
+                "value":"real_madrid_outfit"
+            },
+			"customitems": [
+				{
+				  "material": "CHAINMAIL_LEGGINGS",
+				  "name": "Real madrid outfit",
+				   "nbt": {
+						"base": "mtcustom",
+						"value": "real_madrid_outfit"
+				  }
+				},
+				{
+				  "material": "CHAINMAIL_BOOTS",
+				  "name": "Real madrid outfit",
+				  "nbt": {
+						"base": "mtcustom",
+						"value": "real_madrid_outfit"
+				  }
+				}
+			  ]
+        },
+        {
+            "material":"CHAINMAIL_CHESTPLATE",
+            "type":"CUSTOM_ARMOR_SET",
+            "name":"Tottenham hotspur outfit",
+            "nbt":{
+                "base":"mtcustom",
+                "value":"tottenham_hotspur_outfit"
+            },
+			"customitems": [
+				{
+				  "material": "CHAINMAIL_LEGGINGS",
+				  "name": "Tottenham hotspur outfit",
+				   "nbt": {
+						"base": "mtcustom",
+						"value": "tottenham_hotspur_outfit"
+				  }
+				},
+				{
+				  "material": "CHAINMAIL_BOOTS",
+				  "name": "Tottenham hotspur outfit",
+				  "nbt": {
+						"base": "mtcustom",
+						"value": "tottenham_hotspur_outfit"
+				  }
+				}
+			  ]
+        },
+        {
+            "material":"CHAINMAIL_CHESTPLATE",
+            "type":"CUSTOM_ARMOR_SET",
+            "name":"Juventus outfit",
+            "nbt":{
+                "base":"mtcustom",
+                "value":"juventus_outfit"
+            },
+			"customitems": [
+				{
+				  "material": "CHAINMAIL_LEGGINGS",
+				  "name": "Juventus outfit",
+				   "nbt": {
+						"base": "mtcustom",
+						"value": "juventus_outfit"
+				  }
+				},
+				{
+				  "material": "CHAINMAIL_BOOTS",
+				  "name": "Juventus outfit",
+				  "nbt": {
+						"base": "mtcustom",
+						"value": "juventus_outfit"
+				  }
+				}
+			  ]
+        },
+        {
+            "material":"CHAINMAIL_CHESTPLATE",
+            "type":"CUSTOM_ARMOR_SET",
+            "name":"Liverpool outfit",
+            "nbt":{
+                "base":"mtcustom",
+                "value":"liverpool_outfit"
+            },
+			"customitems": [
+				{
+				  "material": "CHAINMAIL_LEGGINGS",
+				  "name": "Liverpool outfit",
+				   "nbt": {
+						"base": "mtcustom",
+						"value": "liverpool_outfit"
+				  }
+				},
+				{
+				  "material": "CHAINMAIL_BOOTS",
+				  "name": "Liverpool outfit",
+				  "nbt": {
+						"base": "mtcustom",
+						"value": "liverpool_outfit"
+				  }
+				}
+			  ]
+        },
+        {
+            "material":"CHAINMAIL_CHESTPLATE",
+            "type":"CUSTOM_ARMOR_SET",
+            "name":"Manchester united outfit",
+            "nbt":{
+                "base":"mtcustom",
+                "value":"manchester_united_outfit"
+            },
+			"customitems": [
+				{
+				  "material": "CHAINMAIL_LEGGINGS",
+				  "name": "Manchester united outfit",
+				   "nbt": {
+						"base": "mtcustom",
+						"value": "manchester_united_outfit"
+				  }
+				},
+				{
+				  "material": "CHAINMAIL_BOOTS",
+				  "name": "Manchester united outfit",
+				  "nbt": {
+						"base": "mtcustom",
+						"value": "manchester_united_outfit"
+				  }
+				}
+			  ]
+        },		
+        {
+            "material":"CHAINMAIL_CHESTPLATE",
+            "type":"CUSTOM_ARMOR_SET",
+            "name":"Manchester city outfit",
+            "nbt":{
+                "base":"mtcustom",
+                "value":"manchester_city_outfit"
+            },
+			"customitems": [
+				{
+				  "material": "CHAINMAIL_LEGGINGS",
+				  "name": "Manchester city outfit",
+				   "nbt": {
+						"base": "mtcustom",
+						"value": "manchester_city_outfit"
+				  }
+				},
+				{
+				  "material": "CHAINMAIL_BOOTS",
+				  "name": "Manchester city outfit",
+				  "nbt": {
+						"base": "mtcustom",
+						"value": "manchester_city_outfit"
+				  }
+				}
+			  ]
+        },
+        {
+            "material":"DIAMOND_CHESTPLATE",
+            "type":"REGULAR_ARMOR_SET",
+            "name":"Captainamerica outfit",
+            "nbt":{
+                "base":"mtcustom",
+                "value":"captainamerica_outfit"
+            }
+        },
+        {
+            "material":"CHAINMAIL_CHESTPLATE",
+            "type":"REGULAR_ARMOR_SET",
+            "name":"Darthvader outfit",
+            "nbt":{
+                "base":"mtcustom",
+                "value":"darthvader_outfit"
+            }
+        },
+        {
+            "material":"GOLDEN_CHESTPLATE",
+            "type":"REGULAR_ARMOR_SET",
+            "name":"Drdoom outfit",
+            "nbt":{
+                "base":"mtcustom",
+                "value":"drdoom_outfit"
+            }
+        },
+        {
+            "material":"GOLDEN_CHESTPLATE",
+            "type":"REGULAR_ARMOR_SET",
+            "name":"Ghostrider outfit",
+            "nbt":{
+                "base":"mtcustom",
+                "value":"ghostrider_outfit"
+            }
+        },
+        {
+            "material":"CHAINMAIL_CHESTPLATE",
+            "type":"REGULAR_ARMOR_SET",
+            "name":"Gryffindor outfit cape",
+            "nbt":{
+                "base":"mtcustom",
+                "value":"gryffindor_outfit_cape"
+            }
+        },
+        {
+            "material":"CHAINMAIL_CHESTPLATE",
+            "type":"REGULAR_ARMOR_SET",
+            "name":"Gryffindor outfit full",
+            "nbt":{
+                "base":"mtcustom",
+                "value":"gryffindor_outfit_full"
+            }
+        },
+        {
+            "material":"CHAINMAIL_CHESTPLATE",
+            "type":"REGULAR_ARMOR_SET",
+            "name":"Hedwig outfit",
+            "nbt":{
+                "base":"mtcustom",
+                "value":"hedwig_outfit"
+            }
+        },
+        {
+            "material":"IRON_CHESTPLATE",
+            "type":"REGULAR_ARMOR_SET",
+            "name":"Henchmanlime outfit",
+            "nbt":{
+                "base":"mtcustom",
+                "value":"henchmanlime_outfit"
+            }
+        },
+        {
+            "material":"IRON_CHESTPLATE",
+            "type":"REGULAR_ARMOR_SET",
+            "name":"Henchmanpig outfit",
+            "nbt":{
+                "base":"mtcustom",
+                "value":"henchmanpig_outfit"
+            }
+        },
+        {
+            "material":"IRON_CHESTPLATE",
+            "type":"REGULAR_ARMOR_SET",
+            "name":"Henchmanpump outfit",
+            "nbt":{
+                "base":"mtcustom",
+                "value":"henchmanpump_outfit"
+            }
+        },
+        {
+            "material":"CHAINMAIL_CHESTPLATE",
+            "type":"REGULAR_ARMOR_SET",
+            "name":"Hufflepuff outfit cape",
+            "nbt":{
+                "base":"mtcustom",
+                "value":"hufflepuff_outfit_cape"
+            }
+        },
+        {
+            "material":"CHAINMAIL_CHESTPLATE",
+            "type":"REGULAR_ARMOR_SET",
+            "name":"Hufflepuff outfit full",
+            "nbt":{
+                "base":"mtcustom",
+                "value":"hufflepuff_outfit_full"
+            }
+        },
+        {
+            "material":"DIAMOND_CHESTPLATE",
+            "type":"REGULAR_ARMOR_SET",
+            "name":"Ironmanhd outfit",
+            "nbt":{
+                "base":"mtcustom",
+                "value":"ironmanhd_outfit"
+            }
+        },
+        {
+            "material":"LEATHER_CHESTPLATE",
+            "type":"REGULAR_ARMOR_SET",
+            "name":"Ironman chestplate"
+        },
+        {
+            "material":"CHAINMAIL_CHESTPLATE",
+            "type":"REGULAR_ARMOR_SET",
+            "name":"Lukeskywalker outfit",
+            "nbt":{
+                "base":"mtcustom",
+                "value":"lukeskywalker_outfit"
+            }
+        },
+        {
+            "material":"CHAINMAIL_CHESTPLATE",
+            "type":"REGULAR_ARMOR_SET",
+            "name":"Niffler outfit",
+            "nbt":{
+                "base":"mtcustom",
+                "value":"niffler_outfit"
+            }
+        },
+        {
+            "material":"CHAINMAIL_CHESTPLATE",
+            "type":"REGULAR_ARMOR_SET",
+            "name":"Phoenix outfit",
+            "nbt":{
+                "base":"mtcustom",
+                "value":"phoenix_outfit"
+            }
+        },
+        {
+            "material":"CHAINMAIL_CHESTPLATE",
+            "type":"REGULAR_ARMOR_SET",
+            "name":"Ravenclaw outfit cape",
+            "nbt":{
+                "base":"mtcustom",
+                "value":"ravenclaw_outfit_cape"
+            }
+        },
+        {
+            "material":"CHAINMAIL_CHESTPLATE",
+            "type":"REGULAR_ARMOR_SET",
+            "name":"Ravenclaw outfit full",
+            "nbt":{
+                "base":"mtcustom",
+                "value":"ravenclaw_outfit_full"
+            }
+        },
+        {
+            "material":"CHAINMAIL_CHESTPLATE",
+            "type":"REGULAR_ARMOR_SET",
+            "name":"Slytherin outfit cape",
+            "nbt":{
+                "base":"mtcustom",
+                "value":"slytherin_outfit_cape"
+            }
+        },
+        {
+            "material":"CHAINMAIL_CHESTPLATE",
+            "type":"REGULAR_ARMOR_SET",
+            "name":"Slytherin outfit full",
+            "nbt":{
+                "base":"mtcustom",
+                "value":"slytherin_outfit_full"
+            }
+        },
+        {
+            "material":"DIAMOND_CHESTPLATE",
+            "type":"REGULAR_ARMOR_SET",
+            "name":"Spiderman outfit",
+            "nbt":{
+                "base":"mtcustom",
+                "value":"spiderman_outfit"
+            }
+        },
+        {
+            "material":"CHAINMAIL_CHESTPLATE",
+            "type":"REGULAR_ARMOR_SET",
+            "name":"Stormtrooperred outfit",
+            "nbt":{
+                "base":"mtcustom",
+                "value":"stormtrooperred_outfit"
+            }
+        },
+        {
+            "material":"CHAINMAIL_CHESTPLATE",
+            "type":"REGULAR_ARMOR_SET",
+            "name":"Stormtrooperwhite outfit",
+            "nbt":{
+                "base":"mtcustom",
+                "value":"stormtrooperwhite_outfit"
+            }
+        },
+        {
+            "material":"DIAMOND_CHESTPLATE",
+            "type":"REGULAR_ARMOR_SET",
+            "name":"Venom outfit",
+            "nbt":{
+                "base":"mtcustom",
+                "value":"venom_outfit"
+            }
+        },
+        {
+            "material":"GOLDEN_CHESTPLATE",
+            "type":"REGULAR_ARMOR_SET",
+            "name":"Warmachine outfit",
+            "nbt":{
+                "base":"mtcustom",
+                "value":"warmachine_outfit"
+            }
+        }
   ]
 }
