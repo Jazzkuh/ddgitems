@@ -3272,7 +3272,7 @@
         "value": "sortinghat"
       }
     },
-	    {
+    {
       "material": "IRON_AXE",
       "type": "ITEM",
       "name": "Christmas axe",
@@ -9649,7 +9649,7 @@
         "value": "skelet_chestplate"
       }
     },
-	    {
+    {
       "material": "CHAINMAIL_CHESTPLATE",
       "type": "SINGLE_ARMOR_PIECE",
       "name": "Collector shirt Batman"
